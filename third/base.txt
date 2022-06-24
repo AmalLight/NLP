@@ -1,0 +1,20 @@
+
+Base = { ( X ) , ( Y ) , ( Z ) }
+         |___|   |___|   |___|
+           C1      C2      C3
+           
+C1 , C2 , C3 = columns
+
+Examples :
+
+   1 2 4
+   0 6 8
+   0 6 8 --> dim ( Base ) = 3x1 = { ( a , b , c ) }
+   
+   1 2 4
+   0 0 0
+   0 0 0 --> dim ( Base ) = 3x2 = { ( a1 , b1 , c1 ) , ( a2 , b2 , c2 ) }
+   
+So :
+
+   pivot missed => Base .

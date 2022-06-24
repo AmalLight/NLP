@@ -1,0 +1,25 @@
+
+ dt = pdf = study for distribution of set X == density               PDF = Density of X
+      result by percentage % about set X
+      will be useful rember that with CAMPANA
+      Study Probability: Pdf = P(X)
+
+ pt = Cumulative Distribution                                        CDF = Like Integral on Fx
+      result percentage % using Fx                                    Fx = model = Codominio
+      integral using Fx
+      will be useful rember that with ESSE
+      Study Probability: Cdf = P(<=X)
+      
+ * pt is a family for get a model for have percentage % result .
+ * Alternative integral to pt make a cdf function:
+   CDF = % --> median or 50th percentile CDF ( x ) = 0.5
+                         50th percentile = x 
+
+ qt = Quantile Function
+      result Fx using cdf ( return to original Codominio = model )
+      derivate of integral pt , inverse for pt ! e dt ?
+      will be useful rember that with ESSE CAPOVOLTA
+
+ rt = random new set X from set X
+
+ from https://statisticsglobe.com/student-t-distribution-in-r-dt-pt-qt-rt
